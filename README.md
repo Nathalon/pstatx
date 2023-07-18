@@ -1,6 +1,6 @@
 ## pstatx
 
-## ![Screenshot from 2023-07-18 23-25-49](https://github.com/Nathalon/pstatx/assets/69394316/b65ef2a8-00d6-41ca-8953-599e798a84a9)
+![Screenshot from 2023-07-18 23-25-49](https://github.com/Nathalon/pstatx/assets/69394316/b18abbf7-5612-4286-b1f5-e734a5945aa7)
 
 Installation (using pip3): GNU/Linux
 =======================================================================================================================
