@@ -1,6 +1,6 @@
 ## pstatx
 
-Installation (using pip3): GNU/Linux
+## Installation (using pip3): GNU/Linux
 =======================================================================================================================
 
 **The easiest and best way to install pstatx on GNU/Linux is using pip3.**  
