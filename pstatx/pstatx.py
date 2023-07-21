@@ -87,7 +87,6 @@ def main():
             print("Error: The specified file does not exist.")
             return
     else:
-        print("Error: You must provide a filename.")
         parser.print_help()
         exit(1)
 
